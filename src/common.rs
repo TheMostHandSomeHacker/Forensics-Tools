@@ -1,0 +1,2 @@
+pub const WINRAR_CVE_2023_38831: i32 = 6220;
+pub const ZIP_CVE_2023_31102: i32 = 2300;
